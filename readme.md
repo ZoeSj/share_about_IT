@@ -65,5 +65,6 @@ https://zoesj.github.io/
 
 ## 随意支持
 如果觉得这些资料对你有用，请随意打赏，多谢支持(*^__^*) 
+<img src="https://upload-images.jianshu.io/upload_images/3162008-e5453f164325354f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width = "300" height = "200" alt="图片名称" align=center />
 ![微信](https://upload-images.jianshu.io/upload_images/3162008-e5453f164325354f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![支付宝](https://upload-images.jianshu.io/upload_images/3162008-32d6796d2e238c9d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
